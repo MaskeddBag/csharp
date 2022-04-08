@@ -1,0 +1,15 @@
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.AssemblyInfo.cs
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ConsoleApp.deps.json
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ConsoleApp.runtimeconfig.json
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ConsoleApp.runtimeconfig.dev.json
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ConsoleApp.dll
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ref/ConsoleApp.dll
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/bin/Debug/net5.0/ConsoleApp.pdb
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.dll
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ref/ConsoleApp.dll
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.pdb
+/Users/Admin/Projects/ConsoleApp/ConsoleApp/obj/Debug/net5.0/ConsoleApp.genruntimeconfig.cache
